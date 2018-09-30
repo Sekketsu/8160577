@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/components/bitrix/advertising.banner/templates/bootstrap/bxcarousel.js" => "15383267596812","/bitrix/components/bitrix/catalog.section/templates/.default/script.js" => "153832677426997",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
